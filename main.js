@@ -15,9 +15,9 @@
 
 
 // // 2-Using built in Function Remove the spaces found in a string
-// let str = "Hello world!";
-// let stringWithoutSpaces = str.replace(" ", "");
-// console.log("String without spaces:", stringWithoutSpaces);
+// let str = "    Hello world!   ";
+// let stringWithoutSpaces = str.trim();
+// console.log("String without spaces:",stringWithoutSpaces);
 
 
 
